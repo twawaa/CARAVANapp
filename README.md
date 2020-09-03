@@ -1,25 +1,3 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-"# DMM WEBCAMPƒRƒ“ƒeƒ“ƒcyƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ğŠ®¬‚³‚¹‚æ‚¤z" 
+"# DMM WEBCAMPã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã€ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã‚’å®Œæˆã•ã›ã‚ˆã†ã€‘" 
+# ä½¿ã„æ–¹
+railsã§ä½œæˆã—ãŸã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã§ã™ã€‚ãƒ‘ã‚½ã‚³ãƒ³ä¸Šã§å®Ÿè¡Œã§ãã¾ã™ã€‚
